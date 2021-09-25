@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">testCovid_19</string>
+    <string name="head">Coronaviruses</string>
+    <string name="sub_head">COVID-19 TRACKER</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recoverd">Recoverd</string>
+    <string name="deaths">Deaths</string>
+    <string name="total">Total Cases</string>
+    <string name="cardheadline">Today Report</string>
+    <string name="cardSubHead_1">COVID-19</string>
+    <string name="cardSubHead_2">Cases</string>
+    <string name="cardSubHead_3">Country</string>
+
+
+</resources>
